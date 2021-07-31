@@ -1,0 +1,17 @@
+{
+  "name": "proxi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "request": "^2.88.2",
+    "ws": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
